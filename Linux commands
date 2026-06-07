@@ -1,0 +1,18 @@
+ls 
+ls -a
+ls -l
+chmod +x a.txt
+chown
+chgrp
+vim sohel.sh
+cat
+mkdir mydir myfile
+touch a.txt b.txt 
+chmod +777
+adduser
+addgrp
+sudo 
+su
+cd ..
+ln -s new.txt softlink-file
+ln new.txt hardink-file
